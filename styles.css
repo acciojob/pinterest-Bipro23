@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+img{
+	height:70%;
+	width:90%;
+	object-fit:cover;
+}
+.hero{
+	display:flex;
+	}
+.butt{
+	background-color:red;
+	border:none;
+	border-radius:4px;
+	color:white;
+	text-decoration:none;
+	padding:10px;
+}
